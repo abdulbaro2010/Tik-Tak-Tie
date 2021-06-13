@@ -1,4 +1,4 @@
-# game
+# Tic Tac Tie Game
 
 A new Flutter project.
 
